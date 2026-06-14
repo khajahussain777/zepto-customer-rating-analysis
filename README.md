@@ -26,7 +26,9 @@ warehouse processes) and replicate Bengaluru's operational model there.
 This could reduce bad ratings by an estimated 8,000 orders/month.
 
 ## Dashboard
-![Zepto Dashboard](zepto_dashboard.png)
+
+<img width="1776" height="862" alt="zepto_dashboard png" src="https://github.com/user-attachments/assets/bf9b8502-4f92-4f54-ab93-6c3a577600ba" />
+
 
 ## Files
 - `Zepto_Analysis.ipynb` — Full analysis notebook
